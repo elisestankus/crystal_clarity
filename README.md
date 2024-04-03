@@ -54,7 +54,7 @@ THEN I am able to delete intention, user, and update my account and profile
 
 ## Deployed Application Link
 
-https://crystal-clarity.onrender.com
+https://crystalclarity.onrender.com
 
 ## Usage Instructions
 
